@@ -1,7 +1,7 @@
 # spacebot
 A nodejs IRC bot
 
-To Do 
+### To Do 
 Adding to this list as I think of more ideas.
 
 - [ ] Log chat to a text file based on date
