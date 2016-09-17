@@ -1,0 +1,9 @@
+{
+    "server": "irc.synirc.net",
+    "nick": "spacebot",
+    "userName": "spacebot",
+    "channels": ["#sp"],
+    "master": "weiry6922",
+    "logChat": "all",
+    "logPm": true
+}
